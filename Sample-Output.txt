@@ -1,0 +1,14 @@
+====================================
+       COMPLEX NUMBER CALCULATOR
+====================================
+Enter real part of first number: 5
+Enter imaginary part of first number: 3
+Enter real part of second number: 2
+Enter imaginary part of second number: 4
+
+First complex number  : 5 + 3i
+Second complex number : 2 + 4i
+Addition              : 7 + 7i
+Subtraction           : 3 - 1i
+
+Thank you for using the calculator!
